@@ -55,3 +55,74 @@
 }
 ✅ Sincronización con Lizto (semana actual) completada. Citas procesadas: 0
 ⏱️ Dejando sincronización cada 30 minutos activa...
+
+🌐 Sincronizando agenda desde Lizto (vista actual)...
+📋 Citas encontradas en pantalla: 45
+📦 Total documentos en la colección: 46
+🔎 Ejemplo desde Mongo: {
+  _id: new ObjectId('691e09501a6f8aa3aa8628a8'),
+  Servicio: 'VOLUMEN GOLD',
+  Fecha: 'Sábado 22 de Noviembre del 2025',
+  Cliente: 'YULIRIS',
+  Hora: '4:00 pm',
+  Celular: 3016580585,
+  Especialista: 'YUCELIS MOSCOTE',
+  Estado: 'Nueva reserva creada',
+  Sede: 'Marquetalia',
+  Usuario: 'Leslie gutierrez',
+  appointmentAt: 2025-11-22T21:00:00.000Z,
+  bgColor: 'rgb(65, 105, 225)',
+  lastSyncedAt: 2025-11-19T20:37:17.615Z
+}
+✅ Sincronización con Lizto (semana actual) completada. Citas procesadas: 45
+⏱️ Dejando sincronización cada 30 minutos activa...
+
+🌐 Sincronizando agenda desde Lizto (vista actual)...
+📋 Citas encontradas en pantalla: 45
+⚠️ No se pudo construir appointmentAt para cliente ELIIMAR, tooltipFecha=null, hora=7:00 am
+📦 Total documentos en la colección: 47
+🔎 Ejemplo desde Mongo: {
+  _id: new ObjectId('691e09501a6f8aa3aa8628a8'),
+  Servicio: 'VOLUMEN GOLD',
+  Fecha: 'Sábado 22 de Noviembre del 2025',
+  Cliente: 'YULIRIS',
+  Hora: '4:00 pm',
+  Celular: 3016580585,
+  Especialista: 'YUCELIS MOSCOTE',
+  Estado: 'Nueva reserva creada',
+  Sede: 'Marquetalia',
+  Usuario: 'Leslie gutierrez',
+  appointmentAt: 2025-11-22T21:00:00.000Z,
+  bgColor: 'rgb(65, 105, 225)',
+  lastSyncedAt: 2025-11-19T21:07:22.500Z
+}
+✅ Sincronización con Lizto (semana actual) completada. Citas procesadas: 45
+⏱️ Dejando sincronización cada 30 minutos activa...
+[dotenv@17.2.3] injecting env (7) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv] .env cargado, iniciando Lizto-sync...
+✅ Conectado a MongoDB (agenda_leslie)
+🌐 Abriendo página de login de Lizto...
+🔐 Iniciando sesión...
+✅ Sesión iniciada en Lizto
+📅 Abriendo calendario...
+
+🌐 Sincronizando agenda desde Lizto (vista actual)...
+📋 Citas encontradas en pantalla: 45
+📦 Total documentos en la colección: 47
+🔎 Ejemplo desde Mongo: {
+  _id: new ObjectId('691e09501a6f8aa3aa8628a8'),
+  Servicio: 'VOLUMEN GOLD',
+  Fecha: 'Sábado 22 de Noviembre del 2025',
+  Cliente: 'YULIRIS',
+  Hora: '4:00 pm',
+  Celular: 3016580585,
+  Especialista: 'YUCELIS MOSCOTE',
+  Estado: 'Nueva reserva creada',
+  Sede: 'Marquetalia',
+  Usuario: 'Leslie gutierrez',
+  appointmentAt: 2025-11-22T21:00:00.000Z,
+  bgColor: 'rgb(65, 105, 225)',
+  lastSyncedAt: 2025-11-19T21:37:06.027Z
+}
+✅ Sincronización con Lizto (semana actual) completada. Citas procesadas: 45
+⏱️ Dejando sincronización cada 30 minutos activa...
